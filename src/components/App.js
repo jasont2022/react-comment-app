@@ -2,7 +2,7 @@
 import React from 'react'
 import s from 'styled-components'
 import Header from './Header'
-import From from './Form'
+import PostForm from './PostForm'
 import Posts from './Posts'
 
 const Container = s.div`
@@ -13,7 +13,7 @@ const Container = s.div`
 const App = () => (
   <Container>
     <Header />
-    <From />
+    <PostForm />
   </Container>
 )
 
