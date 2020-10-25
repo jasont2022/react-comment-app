@@ -6,4 +6,7 @@ import ReactDOM from 'react-dom'
 import 'react-bootstrap/dist/react-bootstrap.min.js'
 import App from './src/components/App'
 
-ReactDOM.render(<App/>, document.getElementById('react-root'))
+ReactDOM.render(
+  <App/>,
+  document.getElementById('react-root'),
+)
