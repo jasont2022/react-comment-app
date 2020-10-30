@@ -19,7 +19,7 @@ const Title = s.h1`
 
 const Header = () => (
   <HeaderWrapper>
-    <Title>🎉 React Comment App 🎉</Title>
+    <Title>🥳 React Comment App 🥳 </Title>
   </HeaderWrapper>
 )
 
